@@ -248,6 +248,7 @@ function create_config( )
     "tophoto",
     "download_media",
     "feedback",
+    "lock_emoji",
     "lock_username",
     "welcome",
     "txt2img",
