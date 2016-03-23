@@ -1,7 +1,7 @@
 do
  function run(msg, matches)
  
- local fuse = 'New FeedBack\n\nId : ' .. msg.from.id .. '\n\nName: ' .. msg.from.print_name ..'\n\nUsername: @' .. msg.from.username .. '\n\nThe Pm:\n' .. matches[1] 
+ local fuse = 'نظر جدید \n\nId : ' .. msg.from.id .. '\n\nنام : ' .. msg.from.print_name ..'\n\nنام کاربری : @' .. msg.from.username .. '\n\nپیام :\n' .. matches[1]
  local fuses = '!printf user#id' .. msg.from.id
  
  
