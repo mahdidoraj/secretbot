@@ -3,15 +3,15 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  ویرایش شده توسط : Mahdi S.Love
   
-  Channel : @Nod32team
+  کانال : @secrebotchan
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  گروه پشتیبانی : https://github.com/BH-YAGHI/NOD32-BOT.git
   
-  NOD32 VERSION 8
+  SecretBot VERSION 1
   
-  All rights reserved.
+  
   __________________]]
 end
 
